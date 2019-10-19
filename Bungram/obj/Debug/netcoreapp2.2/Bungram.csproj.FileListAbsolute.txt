@@ -1,0 +1,14 @@
+C:\Users\Shannon\source\repos\Bungram\Bungram\bin\Debug\netcoreapp2.2\Bungram.deps.json
+C:\Users\Shannon\source\repos\Bungram\Bungram\bin\Debug\netcoreapp2.2\Bungram.runtimeconfig.json
+C:\Users\Shannon\source\repos\Bungram\Bungram\bin\Debug\netcoreapp2.2\Bungram.runtimeconfig.dev.json
+C:\Users\Shannon\source\repos\Bungram\Bungram\bin\Debug\netcoreapp2.2\Bungram.dll
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.csprojAssemblyReference.cache
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.csproj.CoreCompileInputs.cache
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.AssemblyInfoInputs.cache
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.AssemblyInfo.cs
+C:\Users\Shannon\source\repos\Bungram\Bungram\bin\Debug\netcoreapp2.2\Bungram.pdb
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.RazorAssemblyInfo.cache
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.RazorAssemblyInfo.cs
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.RazorTargetAssemblyInfo.cache
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.dll
+C:\Users\Shannon\source\repos\Bungram\Bungram\obj\Debug\netcoreapp2.2\Bungram.pdb
